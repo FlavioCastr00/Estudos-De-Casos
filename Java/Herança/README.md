@@ -1,4 +1,6 @@
-Aplicação prática dos conveitos de Herança na Linguagem Java.
+Herança - Conceito de POO
+
+Aplicação prática dos conceitos de Herança na Linguagem Java.
 
 Neste estudo de caso, a classe pai é chamada de "Funcionários", enquanto as classes "Gestor" e "Desenvolvedor" são suas classes filhas. A classe "Programador", por sua vez, é classe filha de "Desenvolvedor".
 

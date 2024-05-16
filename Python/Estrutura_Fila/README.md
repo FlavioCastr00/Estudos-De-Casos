@@ -1,4 +1,4 @@
-Fila - Estrutura de Dados
+# **Fila - Estrutura de Dados**
 
 Neste estudo de caso, o programa exemplifica o funcionamento do tipo de estrutura de dados "fila". Esta estrutura sequencial segue os conceitos FIFO (first-in-first-out), oque significa que o primeiro elemento a entrar na fila será sempre o primeiro elemento a sair. A imagem abaixo descreve este comportamento:
 

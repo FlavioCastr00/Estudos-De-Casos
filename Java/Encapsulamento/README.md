@@ -1,4 +1,4 @@
-Encapsulamento - Conceito de POO
+# Encapsulamento - Conceito de POO
 
 Aplicação prática do conceito de encapsulamento em Java. Neste estudo de caso, a classe "aluno" possui variáveis privadas que só podem ser acessadas através de seus médotos. Estes, por sua vez, são públicos, portanto podem ser chamadas por outras classes, como a classe Main, por exemplo.
 

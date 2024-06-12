@@ -1,4 +1,4 @@
-#carreda dois vetores através de inputs do usuário. No final, cria um terceiro vetor intercalando os valores dos outros dois vetores
+#carrega dois vetores através de inputs do usuário. No final, cria um terceiro vetor intercalando os valores dos outros dois vetores
 import numpy as np
 
 vt1 = np.empty(10) #cria um vetor vazio

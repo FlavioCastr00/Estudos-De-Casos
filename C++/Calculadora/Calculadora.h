@@ -9,43 +9,15 @@ class Calculadora
         
         double x, y;
         
-        double Soma(){
-            cout << "Digite os valores que deseja somar:" << endl;
-            cin >> x;
-            cin >> y;
-            return x+y;
-        }
+        double Soma();
         
-        double Subtração(){
-            cout << "Digite os valores que deseja subtrair:" << endl;
-            cin >> x;
-            cin >> y;
-            return x-y;
-        }
+        double Subtração();
         
-        double Multiplicação(){
-            cout << "Digite os valores que deseja multiplicar:" << endl;
-            cin >> x;
-            cin >> y;
-            return x*y;
-        }
+        double Multiplicação();
         
-        double Divisão(){
-            cout << "Digite os valores que deseja dividir:" << endl;
-            cin >> x;
-            cin >> y;
-            return x/y;
-        }
+        double Divisão();
         
-        double raizQuadrada(){
-            cout << "Raiz quadrada de?" << endl;
-            cin >> x;
-            return sqrt(x);
-        }
+        double raizQuadrada();
         
-        double logNatural(){
-            cout << "Log natural de?" << endl;
-            cin >> x;
-            return log(x);
-        }
+        double logNatural();
 };

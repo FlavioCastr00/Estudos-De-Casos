@@ -8,12 +8,7 @@ int main()
 {
     srand(time(0));
     
-    char grid[3][3] = 
-    {
-        {' ', ' ', ' '},
-        {' ', ' ', ' '},
-        {' ', ' ', ' '}
-    };
+    char grid[3][3] = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
     char const players[2] = {'X', 'O'};
     char vezJogador = players[rand() % 2]; //sorteia qual jogador irá começar primeiro
     char vencedor = ' ';
@@ -88,12 +83,10 @@ int main()
             }
         }
         //vitoria na diagonal
-        if (grid[0][0] != ' ' && grid[1][1] != ' ' && grid[2][2] != ' ' || grid[0][2] != ' ' && grid[1][1] != ' ' && grid[2][0] != ' ')
+        if (grid[0][0] != ' ' && grid[0][0] == grid[1][1] && grid[1][1] == grid[2][2] ||
+            grid[0][2] != ' ' && grid[0][2] == grid[1][1] && grid[1][1] == grid[2][0])
         {
-            if (grid[0][0] == grid[1][1] && grid[1][1] == grid[2][2] || grid[0][2] == grid[1][1] && grid[1][1] == grid[2][0])
-            {
-                vencedor = vezJogador;
-            }
+            vencedor = vezJogador;
         }
         
         //muda a vez do jogador

@@ -1,0 +1,45 @@
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\bin\Debug\net8.0\Chamando Métodos.exe
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\bin\Debug\net8.0\Chamando Métodos.deps.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\bin\Debug\net8.0\Chamando Métodos.runtimeconfig.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\bin\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\bin\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.AssemblyInfoInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.AssemblyInfo.cs
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.csproj.CoreCompileInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.sourcelink.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\refint\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\Chamando Métodos.genruntimeconfig.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Métodos em C#\01 - Chamando Métodos\obj\Debug\net8.0\ref\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\bin\Debug\net8.0\Chamando Métodos.exe
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\bin\Debug\net8.0\Chamando Métodos.deps.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\bin\Debug\net8.0\Chamando Métodos.runtimeconfig.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\bin\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\bin\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.AssemblyInfoInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.AssemblyInfo.cs
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.csproj.CoreCompileInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.sourcelink.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\refint\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\Chamando Métodos.genruntimeconfig.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Chamando Funções\obj\Debug\net8.0\ref\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\bin\Debug\net8.0\Chamando Métodos.exe
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\bin\Debug\net8.0\Chamando Métodos.deps.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\bin\Debug\net8.0\Chamando Métodos.runtimeconfig.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\bin\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\bin\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.AssemblyInfoInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.AssemblyInfo.cs
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.csproj.CoreCompileInputs.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.sourcelink.json
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\refint\Chamando Métodos.dll
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.pdb
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\Chamando Métodos.genruntimeconfig.cache
+D:\Jaqueline\Documents\Flávio\Estudos de Casos\Estudos-De-Casos\C#\02 - Funções em C#\01 - Funções e Parâmetros\obj\Debug\net8.0\ref\Chamando Métodos.dll

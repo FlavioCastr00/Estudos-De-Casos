@@ -1,6 +1,6 @@
 class Pessoa //uma classe funciona como um "blueprint" para a criação de objetos
 {
-    //Propriedades:
+    //Atributos:
     private string pessoaNome;
     private int pessoaIdade;
     

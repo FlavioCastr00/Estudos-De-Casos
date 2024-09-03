@@ -20,7 +20,7 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
         
 //Imprime o cabeçalho do relatório:
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
         
 foreach (string name in studentNames)
 {
@@ -48,27 +48,28 @@ foreach (string name in studentNames)
     else if(name == "Gregor")
         studentScores = gregorScores;
      
-    //inicializa a variável destinada à soma das notas
-    int sumAssigmentScores = 0;
-    //inicializa a variável destinada à média do aluno atual
-    decimal currentStudentGrade = 0;
-    //inicializa a variável que acompanhara quantas notas já foram somadas
-    int gradedAssignments = 0;
+    //Variáveis para as operações:
+    int sumAssigmentScores = 0, sumExams = 0, gradedAssignments = 0;
+    decimal currentStudentGrade = 0, examScore = 0;
             
     foreach (int score in studentScores)
     {
         //incrementa a variável de notas somadas
         gradedAssignments += 1;
         if (gradedAssignments <= examAssignments)
+        {
             //adciona a nota do exame para a soma
             sumAssigmentScores += score;
+            sumExams += score;
+        }
         else
             //adiciona a nota de pontos extras
             sumAssigmentScores += score / 10;
     }
             
     currentStudentGrade = (decimal)sumAssigmentScores / examAssignments;
-
+    examScore = (decimal)sumExams / examAssignments;
+    
     //Para atribuir as notas em letras:        
     if (currentStudentGrade >= 90)
     {
@@ -117,7 +118,7 @@ foreach (string name in studentNames)
     else
         currentStudentLetterGrade = "F";
             
-    Console.WriteLine($"{name}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{name}\t\t{examScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{(int)examScore} ({currentStudentGrade - examScore} pts)");
 }
         
 Console.WriteLine("Press the Enter key to continue");
